@@ -1,6 +1,6 @@
 #include <M5Atom.h>
 
-#define SWITCH 26
+#define SWITCH 26 /* ATOM Grove端子のピン番号 */
 #define SLEEPTIME 3600000000 /* 1000000マイクロ秒 × 3600 */
 
 void setup() {
